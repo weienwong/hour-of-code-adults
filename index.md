@@ -4,6 +4,7 @@ layout: default
 
 TODO: Add intro
 
+A more condensed PDF version of this lesson is available [here](https://www.dropbox.com/s/dv9w4oz7e42rk4a/Hour%20of%20Code%20San%20Diego%20%28Adults%29.pdf?dl=0).
 
 Joke
 ----
